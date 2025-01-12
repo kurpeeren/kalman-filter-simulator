@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KalmanFilterSimulator", "KalmanFilterSimulator\KalmanFilterSimulator.csproj", "{67DA8132-4325-4836-84E0-73DD20125A45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67DA8132-4325-4836-84E0-73DD20125A45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67DA8132-4325-4836-84E0-73DD20125A45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67DA8132-4325-4836-84E0-73DD20125A45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67DA8132-4325-4836-84E0-73DD20125A45}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55D80B73-5B8A-4026-8293-06FC4E3B4EF2}
+	EndGlobalSection
+EndGlobal

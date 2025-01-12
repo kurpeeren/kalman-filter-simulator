@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hkaPTHXPo60=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aeker\\source\\repos\\KalmanFilterSimulator\\KalmanFilterSimulator\\KalmanFilterSimulator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aeker\\.nuget\\packages\\mathnet.numerics\\5.0.0\\mathnet.numerics.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
